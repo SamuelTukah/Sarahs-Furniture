@@ -299,6 +299,7 @@ button {
     padding-bottom: 50px;
     background-size: 100%;
     background-repeat: no-repeat;
+    background-position: center;
 }
 .icon_1{
     width: 100%;
